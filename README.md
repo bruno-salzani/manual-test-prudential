@@ -1,6 +1,6 @@
 # Teste de Software - Prudential LMS APP
 
-Este projeto documenta minha experiência como Analista de Testes na validação do aplicativo Prudential LMS, disponível para as plataformas iOS (iPhone e iPad) e Android. O aplicativo oferece cursos e atividades educacionais para os usuários, proporcionando uma experiência interativa e acessível. Os testes realizados garantiram a qualidade e a funcionalidade do sistema, alinhando-se aos requisitos e objetivos do projeto.
+Este projeto documenta minha experiência como Analista de Testes na validação do aplicativo Prudential LMS, disponível para as plataformas iOS (iPhone e iPad) e Android. O aplicativo oferece cursos e atividades educacionais para os usuários, proporcionando uma experiência interativa e acessível. Os testes realizados garantiram a qualidade e a funcionalidade do sistema, alinhando-se aos requisitos e objetivos do projeto. O projeto teve uma duração de 2 anos, de 2021 a 2023, período durante o qual fui responsável pela execução de testes contínuos para assegurar o sucesso da entrega.
 
 ## Objetivo do Projeto
 O principal objetivo foi validar o funcionamento do aplicativo LMS da Prudential, garantindo a entrega de cursos virtuais, trilhas de cursos, vídeos, atividades em PDF e eBooks. Além disso, o foco esteve na usabilidade, performance e alinhamento com as especificações fornecidas.
