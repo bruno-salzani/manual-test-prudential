@@ -19,14 +19,15 @@ As principais funcionalidades testadas incluem:
 
 ## Telas Testadas
 Diversas telas e funcionalidades do aplicativo foram validadas para garantir uma experiência de uso intuitiva e livre de falhas, incluindo:  
-- **Página de Login**  
-- **Tela de Splash**  
-- **Painel de Atividades**  
-- **Fluxos de Cursos e Avaliações**  
-- **Navegação de Trilhas de Cursos**  
-- **Exibição e Reprodução de Vídeos**  
-- **Acessibilidade de Atividades em PDF**  
-- **Leitura de eBooks**  
+- **[Página de Login](/Imagens/login.jpg)**  
+- **[Tela de Splash](/Imagens/splash.png)**
+- **[Página Inicial](/Imagens/home.jpg)** 
+- **[Painel de Atividades](/Imagens/conteudos.jpg)**  
+- **[Fluxos de Cursos e Avaliações](/Imagens/cursos.jpg)**  
+- **[Navegação de Trilhas de Cursos](/Imagens/trilhas.jpg)**  
+- **[Exibição e Reprodução de Vídeos](/Imagens/video.jpg)**  
+- **[Acessibilidade de Atividades em PDF](/Imagens/atividades.jpg)**  
+- **[Leitura de eBooks](/Imagens/ebook.jpg)**  
 - **Configurações e Perfil do Usuário**  
 
 ---
@@ -49,7 +50,10 @@ A execução dos testes contribuiu significativamente para:
 ---
 
 ## Documentação dos Cenários de Teste
-Os testes foram realizados de forma ágil, seguindo os protótipos fornecidos no Figma como referência para testes de aceitação. Essa abordagem garantiu uma validação rápida e eficaz das funcionalidades, alinhando-se diretamente às expectativas do design e requisitos do projeto.   
+Os testes foram realizados de forma ágil, seguindo os protótipos fornecidos no Figma como referência para testes de aceitação. Essa abordagem garantiu uma validação rápida e eficaz das funcionalidades, alinhando-se diretamente às expectativas do design e requisitos do projeto.  
+
+Além disso, o foco em **testes exploratórios** permitiu identificar comportamentos inesperados e possíveis falhas, explorando as funcionalidades de maneira não linear para garantir a qualidade geral do aplicativo.  
+
 
 ---
 
